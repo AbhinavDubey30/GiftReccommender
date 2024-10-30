@@ -1,4 +1,4 @@
-# GiftReccommender
+# GiftRecommender
 This project includes a set of scripts and resources that provide a foundation for a larger application or service.
 
 ## Project Overview
