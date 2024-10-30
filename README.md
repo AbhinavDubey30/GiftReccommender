@@ -1,5 +1,17 @@
 # GiftReccommender
-This project includes a set of scripts and resources that provide a foundation for a larger application or service. It has been customized with personalized details for Abhinav.
+This project includes a set of scripts and resources that provide a foundation for a larger application or service.
+
+## Project Overview
+
+This project includes a Gift Recommender system, which helps users find the perfect gift based on their preferences, the recipient’s interests, and other criteria. The system leverages an algorithm that suggests gifts by analyzing factors such as:
+
+- Occasion (e.g., Birthday, Anniversary, etc.)
+- Recipient's preferences or interests
+- Budget constraints
+- Categories of gifts (e.g., books, gadgets, fashion, etc.)
+
+Users can input relevant details, and the recommender provides personalized gift suggestions. The system is customizable and can be expanded with additional criteria or categories to further enhance its accuracy and usefulness.
+
 
 ## Usage
 
